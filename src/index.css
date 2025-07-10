@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+
+@import "tailwindcss";
+@plugin "daisyui";
+
+ul li a.active {
+  color: rgb(255, 22, 6);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+body {
+  font-family: var(--primaryFont);
+  background-color: var(--bodyColor);
+  overflow-x: hidden;
+}
+
+
+
+:root {
+  --primaryColor: #ee0c7d;
+  --bodyColor: #ECF0F3;
+
+  --lightColor: #d9dad9;
+  --deepColor: #0d0833;
+
+  --primaryFont: "Roboto", sans-serif;
+  --secondFont: "Montserrat", sans-serif;
+  
+}
+
+.swiper-pagination{
+   position: static !important;
+   margin-top: 10px;
+}
+
+
+
+/* "Poppins", sans-serif */
+/* Montserrat font */
+
+.shadow-white-3 {
+  box-shadow: 5px 5px #eaebec, -4px -4px 7px #fcfcfc;
+}
+
+.gradient-box {
+  background: linear-gradient(145deg, #d7e2eb, #ffffff);
+}
+
+.gradient-red-hover:hover {
+  background: linear-gradient(145deg, #d6d2d2, #ff0000);
+}

@@ -1,12 +1,44 @@
-# React + Vite
+# 💼 Ridwan Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal developer portfolio website, showcasing my skills, work, and services as a front-end developer with a full-stack mindset. Built with modern web technologies like **React**, **Tailwind CSS**, and more — the goal is to deliver a clean, responsive, and optimized user experience.
 
-Currently, two official plugins are available:
+🌐 **Live Site**: [https://ridwan20-portfolio.netlify.app](https://ridwan20-portfolio.netlify.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📸 Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Portfolio Preview](./preview.png) <!-- Optional: update with actual preview image path if added to repo -->
+
+---
+
+## 🛠️ Tech Stack
+
+- **React.js** – Front-end library
+- **Tailwind CSS** – Utility-first CSS framework
+- **React Icons** – Icon library
+- **Swiper.js** – Carousel/slider components
+- **EmailJS (optional)** – For contact form handling *(or just form UI currently)*
+
+---
+
+## ✨ Features
+
+- 🎨 Modern and clean UI design
+- 📱 Fully responsive layout
+- ⚡ Fast-loading and optimized
+- 🧠 Section-based layout:
+  - Hero section
+  - Skills and services
+  - Portfolio showcase
+  - Testimonials
+  - FAQ accordion
+  - Contact form
+  - Footer with links and contact info
+- 🔗 Live download CV button
+- 💬 Testimonials slider
+- 🧩 FAQ accordion built with React
+
+---
+
+## 📁 Folder Structure

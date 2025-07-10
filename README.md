@@ -6,12 +6,6 @@ This is my personal developer portfolio website, showcasing my skills, work, and
 
 ---
 
-## 📸 Preview
-
-![Portfolio Preview](./preview.png) <!-- Optional: update with actual preview image path if added to repo -->
-
----
-
 ## 🛠️ Tech Stack
 
 - **React.js** – Front-end library
